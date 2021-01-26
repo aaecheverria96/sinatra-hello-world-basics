@@ -73,7 +73,7 @@ DEPENDENCIES
   rspec
   shotgun
   sinatra
-  thin
+  thin (= 1.7.2)
 
 BUNDLED WITH
-   2.0.1
+   2.1.4
